@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bigscheduler/static/css/main.d800724f.css",
+    "main.js": "/bigscheduler/static/js/main.8e35d356.js",
+    "static/js/111.660b9a54.chunk.js": "/bigscheduler/static/js/111.660b9a54.chunk.js",
+    "static/media/nonWorking.webp": "/bigscheduler/static/media/nonWorking.6d9eb26fda28e696e34f.webp",
+    "static/media/logo.svg": "/bigscheduler/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bigscheduler/index.html",
+    "main.d800724f.css.map": "/bigscheduler/static/css/main.d800724f.css.map",
+    "main.8e35d356.js.map": "/bigscheduler/static/js/main.8e35d356.js.map",
+    "111.660b9a54.chunk.js.map": "/bigscheduler/static/js/111.660b9a54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d800724f.css",
+    "static/js/main.8e35d356.js"
+  ]
+}
